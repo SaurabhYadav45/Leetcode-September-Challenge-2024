@@ -1,4 +1,4 @@
-# POTD 16 September
+# POTD 17 September
 ``` CPP
 class Solution {
 public:
